@@ -9,6 +9,7 @@ Corinthiano e adoro cafê...
 
 - 💞️ I’m looking to collaborate on SQL Python
 - 📫 How to reach me ... https://www.linkedin.com/in/fabiano-de-navarro  / https://dashboards.digital/p/fabianonav
+- 
   Perfil ---- https://www.dio.me/users/nav_info_suporte
 
 <!---
