@@ -8,7 +8,12 @@ Corinthiano e adoro cafê...
 👀 I’m interested in ... Atualmente aprendi um novo mundo de desenvolvimento em Python e Power BI que estou adorando esse novo desafio.
 
 - 💞️ I’m looking to collaborate on SQL Python
-- 📫 How to reach me ... https://www.linkedin.com/in/fabiano-de-navarro  / https://dashboards.digital/p/fabianonav
+- 
+- 📫 How to reach me
+-
+-linkedin ... https://www.linkedin.com/in/fabiano-de-navarro
+-
+- dashboards ------ https://dashboards.digital/p/fabianonav
 - 
   Perfil ---- https://www.dio.me/users/nav_info_suporte
 
