@@ -46,6 +46,8 @@ Estou pronto para enfrentar **desafios técnicos e analíticos**. Minha experiê
 
 - **Portfólio:** https://portifolionavinfo.netlify.app/
 **Certificados (https://www.dio.me/users/nav_info_suporte)
+** Coletor de Noticias (https://coletornoticas-nav.streamlit.app/)
+  
 - **GitHub:** [github.com/Fabianonavarro](https://github.com/Fabianonavarro)
 - **LinkedIn:** [linkedin.com/in/fabiano-de-navarro](https://www.linkedin.com/in/fabiano-de-navarro)
 ---
