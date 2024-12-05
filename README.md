@@ -1,4 +1,4 @@
-<h3 ># 👋 **Fabiano Navarro**</h3>
+<h1>  👋 **Fabiano Navarro**</h1>
 
  
 Sou um **especialista em Customer Service** e **análise de dados** com mais de **uma década de experiência** em grandes empresas. Com uma paixão inabalável por **excelência**, possuo uma mentalidade vencedora e estou sempre em busca de superar desafios e alcançar resultados excepcionais.
